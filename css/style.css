@@ -1,0 +1,15 @@
+.wrapper {
+	width:500px;
+	margin:0 auto;
+	position:relative;
+}
+.chatRow {
+	background:lightgreen;
+	margin-bottom:20px;
+}
+.name {
+	font-weight:700;
+}
+.message {
+	font-weight:700;
+}
